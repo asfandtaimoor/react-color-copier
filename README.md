@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Color Copier
+
+<img src="./public/app.png" width="100%">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
